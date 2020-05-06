@@ -1,0 +1,33 @@
+body {
+    background-color: #411c1c;
+    color: #dddddd;
+}
+
+div {
+    border: 5px solid white;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: teal;
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+/* .blue { 
+    color: aqua;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#my-special-image {
+    padding: 10px;
+    border: 5px dotted purple; 
+} */
