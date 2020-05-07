@@ -1,23 +1,26 @@
 body {
-    background-color: #411c1c;
-    color: #dddddd;
-}
-
-div {
-    border: 5px solid white;
+    background-color: #a8eaec;
+    color: #000000;
 }
 
 h1 {
     text-align: center;
 }
 
-a {
-    color: teal;
+h3{
+    color: gray;
 }
 
-a:visited {
-    color: greenyellow;
+a {
+    color: blue;
 }
+
+/* footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+} */
+
 
 /* .blue { 
     color: aqua;
