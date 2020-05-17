@@ -37,9 +37,8 @@ a {
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen  {
     .column {
-      -ms-flex: 50%;
-      flex: 50%;
-      max-width: 50%;
+      flex: 25%;
+      max-width: 25%;
     }
   }  
 
