@@ -34,14 +34,6 @@ a {
     width: 100%;
   }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen  {
-    .column {
-      flex: 25%;
-      max-width: 25%;
-    }
-  }  
-
 /* img{
     width: 100%; 
 } */
